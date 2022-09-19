@@ -7,5 +7,6 @@ Spring framework related learning and implementation
 - Spring cloud
 - Spring unit testing
 - Spring boot
+- Spring JPA
 - Spring security
 - Spring other Modules like (Spring profile, actuator,Batch)
